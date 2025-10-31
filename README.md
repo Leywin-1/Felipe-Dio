@@ -64,8 +64,8 @@ Ao final da execução, o script deve exibir uma mensagem no seguinte formato:
 3.  Implemente o código para satisfazer o objetivo.
 4.  No início do seu script, defina as variáveis:
     ```javascript
-    let nomeHeroi = "Seu Herói";
-    let xpHeroi = 7500;
+    let nome = "Seu Herói";
+    let xp = 7500;
     let nivelHeroi = "";
     ```
 5.  Execute o script no seu terminal:
